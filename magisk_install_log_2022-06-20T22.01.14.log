@@ -1,0 +1,7 @@
+- Device platform: armeabi-v7a
+- Installing: 25.1 (25100)
+- Copying image to cache
+- Unpacking boot image
+Parsing boot image: [/data/user_de/0/com.topjohnwu.magisk/install/boot.img]
+! Unsupported/Unknown image format
+! Installation failed
